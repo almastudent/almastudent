@@ -7,7 +7,7 @@ function Contact() {
   return (
     <div> 
     <Navbar/>
-    <HeroImg2 heading="Contact ." text="Lets have a chat"/>
+    <HeroImg2 heading="Contact ." text="Lets have a Talk"/>
     <Form/>
     <Footer/>
     </div>
